@@ -48,6 +48,17 @@ La Paradoja de la Experiencia
 
 ¡Trabajando!
 
+La Paradoja de la Experiencia
+-----------------------------
+
+¿Qué se necesita para conseguir trabajo?
+
+¡Experiencia!
+
+¿Cómo se consigue experiencia?
+
+¡Trabajando!
+
 ¡Minga!
 
 La Paradoja del 1%
@@ -76,7 +87,7 @@ FizzBuzz
     Escriba un programa que imprima los números del 1 al 100 pero para los múltiplos de 3,
     escriba 'FIZZ', para los múltiplos de 5 'BUZZ' y para múltiplos de 3 y 5 imprima FIZZBUZZ
 
-    -- Imran
+    -- Imran Ghory
 
 FizzBuzz
 --------
@@ -84,7 +95,7 @@ FizzBuzz
      La mayoría de los graduados de ciencias de la computación no pueden resolver FizzBuzz.
      He visto autoproclamados "senior programmers" a los que les lleva 10 o 15 minutos.
 
-     -- Imran
+     -- Imran Ghory
 
 
 FizzBuzz
@@ -105,8 +116,8 @@ Mi Encuesta
 * la procesé con python
 * pueden ver el código, los datos, etc en https://github.com/ralsina/charlas
 
-Qué Aprendí de la Encuesta?
----------------------------
+¿Qué Aprendí de la Encuesta?
+----------------------------
 
 Lo Básico
 ---------
@@ -126,34 +137,49 @@ Estadísticas de Empleo
 Empleadores
 -----------
 
-Cuando contratás te sirve si el candidato hace FLOSS?
+¿Cuando contratás te sirve si el candidato hace FLOSS?
     * SI: 101 (50%)
     * NO: 101 (50%)
 
 Empleadores
 -----------
 
-EPA
+¿Cuando contratás te sirve si el candidato hace FLOSS?
+    * SI: 101 (50%)
+    * NO: 101 (50%)
+
+**EPA**
 
 Empleadores
 -----------
 
-Claro, no todo el mundo contrata :-)
+¡Claro, no todo el mundo contrata!
 
 ¿Cuantos contratan?
     109 (54%)
 
-Cuando contratás (si lo hacés) te sirve si el candidato hace FLOSS?
+Empleadores
+-----------
+
+¿Cuántos contratan?
+    109 (54%)
+
+¿Cuando contratás (si lo hacés) te sirve si el candidato hace FLOSS?
     * SI: 89 81.65%
     * NO: 20 18.35%
 
 Empleadores
 -----------
 
-EPA! En serio contestaste esta pregunta aunque hayas dicho que no contratas?
-    SI: 12 (6%)
+¿Cuántos contratan?
+    109 (54%)
 
-Eso no tiene sentido, pibe.
+¿Cuando contratás (si lo hacés) te sirve si el candidato hace FLOSS?
+    * SI: 89 81.65%
+    * NO: 20 18.35%
+
+¿Contestaste esa pregunta aunque hayas dicho que no contratás?
+    SI: 12 (6%)
 
 Separemos
 ---------
@@ -172,7 +198,14 @@ Per jodere nomas...
 Cuantos de los lideres de proyectos FLOSS contratan otra gente?
     37 de 40 (92.50%)
 
-Contra 53.96% del total de la encuesta y 64.85% de los que hacen FLOSS
+Per jodere nomas...
+-------------------
+
+Cuantos de los lideres de proyectos FLOSS contratan otra gente?
+    37 de 40 (92.50%)
+
+Del total de la encuesta: 53.96%
+De los que desarrollan FLOSS: 64.85%
 
 Dudas, Preguntas, Ofertas [Des]honestas?
 ----------------------------------------
