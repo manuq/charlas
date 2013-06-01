@@ -1,0 +1,176 @@
+Portfolio Mata Currículum
+=========================
+
+:Quien les Habla: Roberto Alsina / ralsina@kde.org / @ralsina
+:Fecha: 1ro de Junio 2013
+:Lugar: Rosario
+
+Las Reglas
+----------
+
+* Si hablo muy rápido, chiflen
+* Si tienen una duda, pregunten **no me molesta ni un poquito**
+* Si tienen un mate, conviden
+* Si tienen bizcochitos, quiero pero estoy a dieta
+
+Un Par de Frases
+----------------
+
+    No hay árbol bueno que produzca fruto malo, ni árbol malo que produzca fruto bueno.
+
+    -- Lucas
+
+    199 out of 200 applicants for every programming job can't write code at all. I repeat: they can't write any code whatsoever.
+
+    -- Reginald Braithwaite
+
+    Billetera mata galán.
+
+    -- Jacobo Winograd
+
+La Paradoja de la Experiencia
+-----------------------------
+
+¿Qué se necesita para conseguir trabajo?
+
+¡Experiencia!
+
+¿Cómo se consigue experiencia?
+
+¡Trabajando!
+
+¡Minga!
+
+La Paradoja del 1%
+------------------
+
+Muchas empresas quieren contratar a programadores del "top 1%" o del "top 5%"
+
+La gran mayoría de las empresas creen que lo logran.
+
+FizzBuzz
+--------
+
+    199 out of 200 applicants for every programming job can't write code at all. I repeat: they can't write any code whatsoever.
+
+    -- Reginald Braithwaite
+
+FizzBuzz
+--------
+
+    Escriba un programa que imprima los números del 1 al 100 pero para los múltiplos de 3,
+    escriba 'FIZZ', para los múltiplos de 5 'BUZZ' y para múltiplos de 3 y 5 imprima FIZZBUZZ
+
+    -- Imran
+
+FizzBuzz
+--------
+
+     La mayoría de los graduados de ciencias de la computación no pueden resolver FizzBuzz.
+     He visto autoproclamados "senior programmers" a los que les lleva 10 o 15 minutos.
+
+     -- Imran
+
+
+FizzBuzz
+--------
+
+     Una gran fracción de los postulantes, aún con Masters y Phd en Ciencias de la
+     Computación, falla en las entrevistas cuando les pido realizar tareas básicas
+     de programación [...] graduados que no pueden responder a "Haga un loop que cuente
+     de 1 a 10. [...] esa gente claramente nunca ha programado."
+
+     -- Dan Kegel
+
+Arquitectos, Albañiles, Carpinteros y Ustedes
+---------------------------------------------
+
+Mi Encuesta
+-----------
+
+* 9 preguntitas
+* 200 respuestas
+* la procesé con python
+* pueden ver el código, los datos, etc en https://github.com/ralsina/charlas
+
+Qué Aprendí de la Encuesta?
+---------------------------
+
+Lo Básico
+---------
+
+* Respuestas: 202
+* Gente que no está en FLOSS: 71 (35.14%)
+* Gente que está en FLOSS: 131 (64.85%)
+* Gente que lidera FLOSS: 59 (29.2%)
+
+Estadísticas de Empleo
+----------------------
+
+* Porcentaje de ocupacion en no FLOSS: 85.92%
+* Porcentaje de ocupacion en FLOSS: 90.84%
+* Porcentaje de ocupacion en lideres FLOSS: 93.22%
+
+Empleadores
+-----------
+
+Cuando contratás te sirve si el candidato hace FLOSS?
+    * SI: 101 (50%)
+    * NO: 101 (50%)
+
+Empleadores
+-----------
+
+EPA
+
+Empleadores
+-----------
+
+Claro, no todo el mundo contrata :-)
+
+¿Cuantos contratan?
+    109 (54%)
+
+Cuando contratás (si lo hacés) te sirve si el candidato hace FLOSS?
+    * SI: 89 81.65%
+    * NO: 20 18.35%
+
+Empleadores
+-----------
+
+EPA! En serio contestaste esta pregunta aunque hayas dicho que no contratas?
+    SI: 12 (6%)
+
+Eso no tiene sentido, pibe.
+
+Separemos
+---------
+
+Si contratas y haces FLOSS, te sirve que el candidato haga FLOSS?
+    * SI: 65 (82.28%)
+    * NO: 14 (17.72%)
+
+Si contratas y **NO** haces FLOSS, te sirve que el candidato haga FLOSS?
+    * SI: 24 (80%)
+    * NO: 6 (20%)
+
+Per jodere nomas...
+-------------------
+
+Cuantos de los lideres de proyectos FLOSS contratan otra gente?
+    37 de 40 (92.50%)
+
+Contra 53.96% del total de la encuesta y 64.85% de los que hacen FLOSS
+
+Dudas, Preguntas, Ofertas [Des]honestas?
+----------------------------------------
+
+Data de esta charla, incluyendo la encuesta, código para procesarla, y demás:
+https://github.com/ralsina/charlas
+
+Pregunten!
+
+Si no pudieron preguntar ahora, o se les ocurre algo después:
+
+:email: ralsina@kde.org
+:twitter: @ralsina
