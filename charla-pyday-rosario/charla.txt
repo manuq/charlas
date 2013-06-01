@@ -209,6 +209,19 @@ Per jodere nomas...
 
 37 de 40 (92.50%)
 
+¿Qué Cosas Me Dice Que Hagas FLOSS?
+-----------------------------------
+
+* ¿Sabés programar (que no es poco)?
+* ¿Sabés usar un sistema de control de versión?
+* ¿Sabés trabajar en equipo?
+* ¿Sabés organizar proyectos?
+* ¿Sabés liderar equipos?
+* ¿Sos automotivado?
+* ¿Te *gusta* programar?
+* ¿Usás buenas prácticas?
+* ¿Cuáles tecnologías sabés?
+
 Per jodere nomas...
 -------------------
 
