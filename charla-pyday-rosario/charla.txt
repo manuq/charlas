@@ -5,6 +5,8 @@ Portfolio Mata Currículum
 :Fecha: 1ro de Junio 2013
 :Lugar: Rosario
 
+.. footer:: Portfolio Mata Currículum // Roberto Alsina <ralsina@kde.org> // Rosario 1 de Junio 2013
+
 Las Reglas
 ----------
 
@@ -20,13 +22,20 @@ Un Par de Frases
 
     -- Lucas
 
-    199 out of 200 applicants for every programming job can't write code at all. I repeat: they can't write any code whatsoever.
+    199 de cada 200 postulantes a un trabajo de programador no puede escribir código
+    en absoluto. Repito: no pueden escribir código. Para nada.
 
     -- Reginald Braithwaite
 
     Billetera mata galán.
 
     -- Jacobo Winograd
+
+
+Arquitectos, Albañiles, Carpinteros y Ustedes
+---------------------------------------------
+
+¿Cómo se contrata a alguien para que haga algo?
 
 La Paradoja de la Experiencia
 -----------------------------
@@ -46,12 +55,18 @@ La Paradoja del 1%
 
 Muchas empresas quieren contratar a programadores del "top 1%" o del "top 5%"
 
-La gran mayoría de las empresas creen que lo logran.
+La Paradoja del 1%
+------------------
+
+Muchas empresas quieren contratar a programadores del "top 1%" o del "top 5%"
+
+La gran mayoría de esas empresas creen que lo logran.
 
 FizzBuzz
 --------
 
-    199 out of 200 applicants for every programming job can't write code at all. I repeat: they can't write any code whatsoever.
+    199 de cada 200 postulantes a un trabajo de programador no puede escribir código
+    en absoluto. Repito: no pueden escribir código. Para nada.
 
     -- Reginald Braithwaite
 
@@ -81,9 +96,6 @@ FizzBuzz
      de 1 a 10. [...] esa gente claramente nunca ha programado."
 
      -- Dan Kegel
-
-Arquitectos, Albañiles, Carpinteros y Ustedes
----------------------------------------------
 
 Mi Encuesta
 -----------

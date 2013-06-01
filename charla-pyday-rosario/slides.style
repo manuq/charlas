@@ -2,7 +2,7 @@
     "width": "12cm",
     "height": "9cm",
     "margin-top": "2mm",
-    "margin-bottom": "0mm",
+    "margin-bottom": "5mm",
     "margin-left": ".5cm",
     "margin-right": "1cm",
     "margin-gutter": "0cm",
@@ -23,6 +23,9 @@
   "styles" : {
     "heading1" : {
        "spaceAfter": 30
+     },
+    "footer" : {
+       "fontSize": "50%"
      }
   }
 }
