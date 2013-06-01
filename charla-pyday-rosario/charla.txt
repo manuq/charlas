@@ -112,7 +112,7 @@ Mi Encuesta
 -----------
 
 * 9 preguntitas
-* 200 respuestas
+* 202 respuestas
 * la procesé con python
 * pueden ver el código, los datos, etc en https://github.com/ralsina/charlas
 
@@ -130,9 +130,9 @@ Lo Básico
 Estadísticas de Empleo
 ----------------------
 
-* Porcentaje de ocupacion en no FLOSS: 85.92%
-* Porcentaje de ocupacion en FLOSS: 90.84%
-* Porcentaje de ocupacion en lideres FLOSS: 93.22%
+* Porcentaje de ocupación en no FLOSS: 85.92%
+* Porcentaje de ocupación en FLOSS: 90.84%
+* Porcentaje de ocupación en lideres FLOSS: 93.22%
 
 Empleadores
 -----------
