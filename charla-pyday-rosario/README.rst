@@ -14,3 +14,9 @@ background.svg
     Fondo con un fragmento de "Antigravity" de xkcd.com
 build.sh
     Comando para crear charla.pdf
+
+LICENCIA:
+
+Creative Commons By-NC-SA
+
+http://creativecommons.org/licenses/by-nc-sa/2.5/ar/
